@@ -29,5 +29,4 @@ Features include expense input, monthly and weekly summaries, charts, and CSV ex
 - Custom reports and notifications.
 - Additional visualizations.
 
-## Contact
-- Your name or contact info (optional).
+
