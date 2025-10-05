@@ -21,8 +21,6 @@ Features include expense input, monthly and weekly summaries, charts, and CSV ex
 - matplotlib
 - streamlit
 
-## Deployment
-- Deploy your app online via [Streamlit Cloud](https://streamlit.io/cloud).
 
 ## Future Enhancements
 - Add budgeting features.
